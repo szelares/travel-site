@@ -1,7 +1,7 @@
 .feature-item {
   position: relative;
   padding-left: 94px;
-  padding-bottom: 2rem;
+  padding-bottom: 1.5rem;
 
   &__icon {
     position: absolute;
