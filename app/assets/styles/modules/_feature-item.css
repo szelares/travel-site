@@ -1,11 +1,7 @@
 .feature-item {
   position: relative;
   padding-left: 94px;
-<<<<<<< HEAD
   padding-bottom: 2rem;
-=======
-  padding-bottom: 2.5rem;
->>>>>>> our-features
 
   &__icon {
     position: absolute;

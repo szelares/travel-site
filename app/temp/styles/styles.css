@@ -768,15 +768,10 @@ a {
 .feature-item {
   position: relative;
   padding-left: 94px;
-<<<<<<< HEAD
   padding-bottom: 2rem;
-=======
-  padding-bottom: 2.5rem;
 }
 
->>>>>>> our-features
-
-  .feature-item__icon {
+.feature-item__icon {
     position: absolute;
     left: 0;
   }
